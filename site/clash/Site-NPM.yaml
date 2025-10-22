@@ -4,3 +4,5 @@ payload:
   - DOMAIN-SUFFIX,npmmirror.com
   - DOMAIN-SUFFIX,registry.npmjs.org
   - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,fastly.net

@@ -2205,7 +2205,6 @@ payload:
   - IP-CIDR6,2a06:680::/29
   - IP-CIDR6,2a06:2f40::/29
   - IP-CIDR6,2a06:3980::/29
-  - IP-CIDR6,2a06:3c40::/29
   - IP-CIDR6,2a06:3cc0::/29
   - IP-CIDR6,2a06:5680::/29
   - IP-CIDR6,2a06:5c40::/29

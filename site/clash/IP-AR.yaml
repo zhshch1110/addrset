@@ -2103,6 +2103,7 @@ payload:
   - IP-CIDR6,2803:5b80::/32
   - IP-CIDR6,2803:5ba0::/32
   - IP-CIDR6,2803:5bc0::/32
+  - IP-CIDR6,2803:5bd0::/32
   - IP-CIDR6,2803:5c10::/32
   - IP-CIDR6,2803:5c90::/32
   - IP-CIDR6,2803:5ca0::/32
@@ -2588,6 +2589,7 @@ payload:
   - IP-CIDR6,2803:db40::/32
   - IP-CIDR6,2803:db90::/32
   - IP-CIDR6,2803:dbc0::/32
+  - IP-CIDR6,2803:dbd0::/32
   - IP-CIDR6,2803:dc10::/32
   - IP-CIDR6,2803:dc80::/32
   - IP-CIDR6,2803:dd20::/32

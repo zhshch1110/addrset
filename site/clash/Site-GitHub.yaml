@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,github.dev
   - DOMAIN-SUFFIX,github.community
+  - DOMAIN-SUFFIX,codespaces.new

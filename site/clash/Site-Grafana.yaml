@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,grafana.com
+  - DOMAIN-SUFFIX,grafana.net
+  - DOMAIN-SUFFIX,grafana.org

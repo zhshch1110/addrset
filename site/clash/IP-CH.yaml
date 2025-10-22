@@ -3252,6 +3252,7 @@ payload:
   - IP-CIDR6,2a0e:3080::/29
   - IP-CIDR6,2a0e:3bc0::/29
   - IP-CIDR6,2a0e:5040::/29
+  - IP-CIDR6,2a0e:63c0::/29
   - IP-CIDR6,2a0e:6b00::/29
   - IP-CIDR6,2a0e:7d40::/29
   - IP-CIDR6,2a0e:97c0::/29
