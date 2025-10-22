@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-SUFFIX,github.community

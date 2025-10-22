@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-SUFFIX,npmmirror.com
+  - DOMAIN-SUFFIX,registry.npmjs.org
+  - DOMAIN-SUFFIX,unpkg.com

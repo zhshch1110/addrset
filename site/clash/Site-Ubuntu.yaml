@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,canonical.com
+  - DOMAIN-SUFFIX,launchpad.net

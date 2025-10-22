@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,pypi.io
