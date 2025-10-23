@@ -38511,6 +38511,7 @@ payload:
   - IP-CIDR6,2a0f:300::/29
   - IP-CIDR6,2a0f:540::/29
   - IP-CIDR6,2a0f:f80::/29
+  - IP-CIDR6,2a0f:1cc0::/29
   - IP-CIDR6,2a0f:2c80::/29
   - IP-CIDR6,2a0f:3b00::/29
   - IP-CIDR6,2a0f:3e00::/29

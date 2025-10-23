@@ -1137,4 +1137,5 @@ payload:
   - IP-CIDR6,2407:d100::/32
   - IP-CIDR6,2602:f5d1::/40
   - IP-CIDR6,2602:f71f::/36
+  - IP-CIDR6,2a0f:3ec0::/29
   - IP-CIDR6,2a13:140::/29
