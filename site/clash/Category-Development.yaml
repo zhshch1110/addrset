@@ -5,45 +5,46 @@ payload:
   - DOMAIN-SUFFIX,ollama.ai
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,openrouter.com
+  - DOMAIN-SUFFIX,codespaces.new
+  - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.community
+  - DOMAIN-SUFFIX,github.dev
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,githubapp.com
-  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,githubstatus.com
-  - DOMAIN-SUFFIX,ghcr.io
-  - DOMAIN-SUFFIX,github.dev
-  - DOMAIN-SUFFIX,github.community
-  - DOMAIN-SUFFIX,codespaces.new
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,gitlab-assets.com
+  - DOMAIN-SUFFIX,gitlab-static.net
+  - DOMAIN-SUFFIX,gitlab-status.com
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.io
-  - DOMAIN-SUFFIX,gitlab-static.net
-  - DOMAIN-SUFFIX,gitlab-assets.com
-  - DOMAIN-SUFFIX,gitlab-status.com
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,quay.io
   - DOMAIN-SUFFIX,linuxserver.io
   - DOMAIN-SUFFIX,lscr.io
-  - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,go.dev
+  - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,nodejs.org
   - DOMAIN-SUFFIX,nodesource.com
+  - DOMAIN-SUFFIX,fastly.net
+  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,npmmirror.com
   - DOMAIN-SUFFIX,registry.npmjs.org
   - DOMAIN-SUFFIX,unpkg.com
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,fastly.net
-  - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pypi.org
-  - DOMAIN-SUFFIX,debian.org
-  - DOMAIN-SUFFIX,debian.net
+  - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,debian.com
-  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,debian.net
+  - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,canonical.com
   - DOMAIN-SUFFIX,launchpad.net
+  - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,pkgbuild.com
   - DOMAIN-SUFFIX,manjaro.org
@@ -60,3 +61,4 @@ payload:
   - DOMAIN-SUFFIX,vultrcr.com
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,digitaloceanspaces.com
+  - DOMAIN-SUFFIX,cloudsmith.io

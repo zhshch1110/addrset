@@ -14,10 +14,10 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare.net
   - DOMAIN-SUFFIX,cloudflare-dns.com
-  - DOMAIN,one.one.one.one
-  - DOMAIN-SUFFIX,pages.dev
-  - DOMAIN-SUFFIX,workers.dev
-  - DOMAIN-SUFFIX,r2.dev
-  - DOMAIN-SUFFIX,cdnjs.com
   - DOMAIN-SUFFIX,cloudflarewarp.com
+  - DOMAIN-SUFFIX,cdnjs.com
+  - DOMAIN-SUFFIX,pages.dev
+  - DOMAIN-SUFFIX,r2.dev
+  - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,warp.plus
+  - DOMAIN,one.one.one.one

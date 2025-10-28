@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,debian.org
-  - DOMAIN-SUFFIX,debian.net
   - DOMAIN-SUFFIX,debian.com
+  - DOMAIN-SUFFIX,debian.net
+  - DOMAIN-SUFFIX,debian.org

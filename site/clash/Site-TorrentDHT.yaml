@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,router.bittorrent.com
-  - DOMAIN-SUFFIX,dht.transmissionbt.com
   - DOMAIN-SUFFIX,dht.libtorrent.org
+  - DOMAIN-SUFFIX,dht.transmissionbt.com
+  - DOMAIN-SUFFIX,router.bittorrent.com
   - DOMAIN-SUFFIX,router.utorrent.com

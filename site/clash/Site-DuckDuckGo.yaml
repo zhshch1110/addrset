@@ -1,6 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,duck.ai
+  - DOMAIN-SUFFIX,duck.com
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,duckduckgo.org
   - DOMAIN-SUFFIX,spreadprivacy.com
-  - DOMAIN-SUFFIX,duck.com
-  - DOMAIN-SUFFIX,duck.ai
