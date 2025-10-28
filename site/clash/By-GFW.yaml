@@ -195,3 +195,4 @@ payload:
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,cloudsmith.io
+  - DOMAIN-SUFFIX,tailscale.com
